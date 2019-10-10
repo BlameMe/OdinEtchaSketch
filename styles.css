@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Be+Vietnam&display=swap');
+
+body {
+    font-size: 30px;
+    background-color: #434360;
+    background-image: url("https://i.imgur.com/yYtow64.jpg");
+    background-position: top right;
+    font-family: 'Be Vietnam', sans-serif;
+    text-align: center;
+}
+
+#header {
+    color: aqua;
+    font-family: 'Be Vietnam', sans-serif;
+    
+}
+
+#controls {
+    text-align: center;
+}
